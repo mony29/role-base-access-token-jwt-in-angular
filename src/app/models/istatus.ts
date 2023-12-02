@@ -1,4 +1,4 @@
-export interface IStatus {
-    success: boolean;
-    date: string;
-}
+// export interface IStatus {
+//     success: boolean;
+//     date: Date;
+// }

@@ -5,8 +5,9 @@
 export const environment = {
     production: false,
     // baseUrl:'http://localhost:88/api'
-    bashUrl: 'http://localhost:8080/api/v1'
+    baseUrl: 'http://localhost:8080/api/v1'
     // http://localhost:8080/api/v1/users/login
+    // Youtube channel : https://youtu.be/upLBZnj-_fw?si=jj5-bqEoRhya8rm7
   };
   
   /*

@@ -1,4 +1,11 @@
+// import { IStatus } from "./istatus";
+
 export interface ILogin {
-    username: string;
-    password: string;
+    success: boolean;
+    date: Date;
+    payload: {
+        username: string;
+        password: string;
+        token:string
+    }
 }
